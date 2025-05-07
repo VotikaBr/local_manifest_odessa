@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-    <project name="VotikaBr/proprietary_vendor_motorola_odessa" path="vendor/motorola/odessa" remote="github" revision="evolution" />
-    <project name="VotikaBr/android_kernel_motorola_sm6150" path="kernel/motorola/sm6150" remote="github" revision="evolution" />
-    <project name="VotikaBr/proprietary_vendor_motorola_6150-common" path="vendor/motorola/6150-common" remote="github" revision="evolution" />
-    <project name="VotikaBr/android_device_motorola_sm6150-common" path="device/motorola/sm6150-common" remote="github" revision="evolution" />
-    <project name="VotikaBr/android_device_motorola_odessa" path="device/motorola/odessa" remote="github" revision="evolution" />
+    <project name="VotikaBr/proprietary_vendor_motorola_odessa" path="vendor/motorola/odessa" remote="github" revision="15.0-QPR2" />
+    <project name="VotikaBr/android_kernel_motorola_sm6150" path="kernel/motorola/sm6150" remote="github" revision="15.0-QPR2" />
+    <project name="VotikaBr/proprietary_vendor_motorola_6150-common" path="vendor/motorola/6150-common" remote="github" revision="15.0-QPR2" />
+    <project name="VotikaBr/android_device_motorola_sm6150-common" path="device/motorola/sm6150-common" remote="github" revision="15.0-QPR2" />
+    <project name="VotikaBr/android_device_motorola_odessa" path="device/motorola/odessa" remote="github" revision="15.0-QPR2" />
     <project name="VotikaBr/android_hardware_motorola" path="hardware/motorola" remote="github" revision="odessa" />
 </manifest>
